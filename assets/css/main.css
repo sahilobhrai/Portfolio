@@ -3408,7 +3408,7 @@ input, select, textarea {
 					}
 
 				#wrapper > section.intro > .content {
-					height: 100vh ;
+					height: 60vh ;
 					max-width: none;
 				}
 
